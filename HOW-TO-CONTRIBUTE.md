@@ -22,7 +22,7 @@ So, you should contribute to [github_contributions.csv](https://github.com/magep
 
 ### How to edit file github_contributions.csv
 
-The `github_contributions.csv` is saparated **line by line**, see:
+The `github_contributions.csv` is separated **line by line**, see:
 
 ```
 "Create Order","Crear pedido",module,Magento_AdvancedCheckout
@@ -34,7 +34,7 @@ The `github_contributions.csv` is saparated **line by line**, see:
 - Magento_AdvancedCheckout: module scope (only translate in this module)
 
 
-Fom the begining, `github_contributions.csv` is empty, you guys should add more translations into it.
+Fom the beginning, `github_contributions.csv` is empty, you guys should add more translations into it.
 
 #### Suggestions
 - You can copy any part of `el_GR.csv` and paste to `github_contributions.csv` then translate it.
