@@ -34,7 +34,7 @@ The `github_contributions.csv` is separated **line by line**, see:
 - Magento_AdvancedCheckout: module scope (only translate in this module)
 
 
-Fom the beginning, `github_contributions.csv` is empty, you guys should add more translations into it.
+From the beginning, `github_contributions.csv` is empty, you guys should add more translations into it.
 
 #### Suggestions
 - You can copy any part of `el_GR.csv` and paste to `github_contributions.csv` then translate it.
