@@ -18,7 +18,7 @@ Read more [Magento 2 Greek Language Pack](https://www.mageplaza.com/magento-2-gr
 
 ## 1. Language Package Process
 
-This is status of Greek Language Pack, you can see how many percentage of this project has been done.
+This is the status of Greek Language Pack, you can see how many percentage of this project has been done.
 
 ![language pack](https://progress-bar.dev/83/?title=translated)
 
